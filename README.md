@@ -116,27 +116,27 @@ print(traversedpath)
 
 <hr>
 <h3>Sample Input</h3>
-<hr>
+
 ![image](https://github.com/user-attachments/assets/cdce1a61-9312-4f72-a154-5fab596ba994)
 
-<hr>
+
 <h3>Sample Output</h3>
 
-<hr>
+
 ![image](https://github.com/user-attachments/assets/0508d164-95c4-499c-8a24-c1d19be56716)
 
-<hr>
 
-<hr>
+
 <h3>Sample Input</h3>
-<hr>
+
 ![image](https://github.com/user-attachments/assets/cabfff1c-803f-48fc-b975-0f6bae84734c)
 
-<hr>
+
 <h3>Sample Output</h3>
-<hr>
+
 ![image](https://github.com/user-attachments/assets/4d7fd764-c770-4266-af93-613bf4550ec4)
-<hr>
+
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
