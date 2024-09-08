@@ -117,38 +117,25 @@ print(traversedpath)
 <hr>
 <h3>Sample Input</h3>
 <hr>
-7 9 <BR>
-A B <BR>
-A C <BR>
-A F <BR>
-C E <BR>
-C F <BR>
-C D <BR>
-D E <BR>
-D G <BR>
-G F <BR>
+![image](https://github.com/user-attachments/assets/cdce1a61-9312-4f72-a154-5fab596ba994)
+
 <hr>
 <h3>Sample Output</h3>
 
 <hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
+![image](https://github.com/user-attachments/assets/0508d164-95c4-499c-8a24-c1d19be56716)
 
 <hr>
 
 <hr>
 <h3>Sample Input</h3>
 <hr>
-5 6 <BR>
-0 1 <BR>
-0 2 <BR>
-1 2 <BR>
-1 3 <BR>
-2 4 <BR>
-3 4 <BR>
+![image](https://github.com/user-attachments/assets/cabfff1c-803f-48fc-b975-0f6bae84734c)
+
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+![image](https://github.com/user-attachments/assets/4d7fd764-c770-4266-af93-613bf4550ec4)
 <hr>
 <h3>Result:</h3>
 <hr>
